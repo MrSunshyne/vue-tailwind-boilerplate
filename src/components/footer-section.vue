@@ -7,13 +7,13 @@
 		<div>&nbsp;</div>
 		<ul class="menu">
 			<li>
-				<nuxt-link to="/bio">Contribute on GitHub</nuxt-link>
+				<router-link to="{}">Contribute on GitHub</router-link>
 			</li>
 		</ul>
 	</div>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .menu {
 	display: flex;
 
